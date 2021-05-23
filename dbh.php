@@ -2,7 +2,7 @@
 $servername = "localhost";
 $veritabani = "chat";
 $kullanici = "root";
-$sifre = "1122334455";
+$sifre = "";
 
 
 $conn = new mysqli($servername, $kullanici, $sifre, $veritabani);
